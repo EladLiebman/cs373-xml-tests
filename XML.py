@@ -28,24 +28,45 @@ def search_xml():
     # Create roots for 2 element trees, query and doc
     queryRoot = ET.fromstring(query)
     docRoot = ET.fromstring(doc)
-    print "QUERY:"
+
     queryList = []
+    docList = []
+    
  
     for child in queryRoot.iter():
         queryList.append(child.tag)
         
   
-    print "DOC:"  
+    
     for child in docRoot.iter():
-        child.tag
-        
+        docList.append(child.tag)
+
+
+    numMatches = 0 # number of matches        
+    # First step
     a = docRoot.findall('.//' + queryList[0]) #'//Team'
-    print "Search for 1st query element:"
+
     for element in a:
         for child in element.iter():            
-            print child.tag
-        
+       
+            # Second step
+            # If find cooly, increment first line of output
+            if child.tag == queryList[1] : # "Cooly"
+                numMatches += 1                
 
-    print queryList
-search_xml()
+   
+    print numMatches 
     
+    # array for storing results
+    elementID = []
+    
+    i = 0
+    while i < len(docList) : 
+        # do something
+        if docList[i] == queryList[0] :
+            elementID.append(i+1)
+        i += 1
+        
+    for i in elementID:
+        print i
+search_xml()
