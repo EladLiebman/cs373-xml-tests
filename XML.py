@@ -45,28 +45,40 @@ def search_xml():
     numMatches = 0 # number of matches        
     # First step
     a = docRoot.findall('.//' + queryList[0]) #'//Team'
-
-    for element in a:
-        for child in element.iter():            
-       
-            # Second step
-            # If find cooly, increment first line of output
-            if child.tag == queryList[1] : # "Cooly"
-                numMatches += 1                
-
-   
-    print numMatches 
+    query_elements_toMatch = len(queryList)-1
     
-    # array for storing results
     elementID = []
-    
     i = 0
     while i < len(docList) : 
         # do something
         if docList[i] == queryList[0] :
             elementID.append(i+1)
         i += 1
-        
-    for i in elementID:
-        print i
+    
+       
+    output = []
+      
+    count = -1
+    for element in a:        
+        count+= 1
+        # print count
+        for child in element.iter():     
+            print child.tag
+            # Second step
+            # If find cooly, increment first line of output
+            if child.tag == queryList[1] : # "Cooly"
+                
+                numMatches += 1
+                output.append(elementID[count])     
+            
+   
+    print numMatches 
+    
+    # array for storing results
+   
+    for num in output:
+        print num
+    
+    
+   
 search_xml()
