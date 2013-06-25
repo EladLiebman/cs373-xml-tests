@@ -42,43 +42,72 @@ def search_xml():
         docList.append(child.tag)
 
 
-    numMatches = 0 # number of matches        
+    numMatches = 0  # number of matches        
     # First step
-    a = docRoot.findall('.//' + queryList[0]) #'//Team'
-    query_elements_toMatch = len(queryList)-1
+    a = docRoot.findall('.//' + queryList[0])  # '//Team'
+    
     
     elementID = []
     i = 0
+    # keys for dictionary, ID of 'Team'
     while i < len(docList) : 
         # do something
         if docList[i] == queryList[0] :
-            elementID.append(i+1)
+            elementID.append(i + 1)
         i += 1
     
-       
+    dictionary = dict()
+    
+    m = 0 
+    while m < len(a):
+        dictionary[a[m]] = elementID[m]
+        m += 1
+    print dictionary.items()
     output = []
-      
-    count = -1
+    print len(queryList)
+   
+    n = 0
+    # Find top-level element from query, i.e. Team
+    b = 1 
+    queryChildren= []
+    while b < len(queryList):
+        queryChildren.append(queryList[b])
+        b+=1
+    occur = 0   
+    limit = len(queryChildren)
+    
+    for q in queryChildren:
+        print q
+ 
+    #iterates over Cooly for now 
     for element in a:        
-        count+= 1
+        numMatches = 0
         # print count
+        # Second step
         for child in element.iter():     
             print child.tag
-            # Second step
-            # If find cooly, increment first line of output
-            if child.tag == queryList[1] : # "Cooly"
-                
-                numMatches += 1
-                output.append(elementID[count])     
             
+           
+            # If find cooly, increment first line of output
+            print " Index is %d" % n
+            for query in queryChildren:
+                
+                if child.tag == query :  # "Cooly"                
+                    numMatches += 1
+                    if numMatches == limit:
+                        occur+=1
+                        output.append(dictionary.get(element))
+                        numMatches = 0
+                 
    
-    print numMatches 
+    #print numMatches 
     
     # array for storing results
-   
+    print occur
     for num in output:
         print num
     
-    
+# Searches the subtree of the query root, iterating of all children, returns boolean
+
    
 search_xml()
