@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 import xml.etree.ElementTree as ET
 
-def search_xml():   
+def xml_eval(filename):   # renamed from search_xml()
     # Read entire file into a string
-    with open ("RunXML.in", "r") as myfile:
+    with open (filename, "r") as myfile:
         data = myfile.read() 
     
     # Find the beginning of the Query Document, Store in string
@@ -62,9 +62,9 @@ def search_xml():
     while m < len(a):
         dictionary[a[m]] = elementID[m]
         m += 1
-    print dictionary.items()
+    #print dictionary.items()
     output = []
-    print len(queryList)
+    #print len(queryList)
    
     n = 0
     # Find top-level element from query, i.e. Team
@@ -76,8 +76,8 @@ def search_xml():
     occur = 0   
     limit = len(queryChildren)
     
-    for q in queryChildren:
-        print q
+    #for q in queryChildren:
+    #    print q
  
     #iterates over Cooly for now 
     for element in a:        
@@ -89,7 +89,7 @@ def search_xml():
             
            
             # If find cooly, increment first line of output
-            print " Index is %d" % n
+            #print " Index is %d" % n
             for query in queryChildren:
                 
                 if child.tag == query :  # "Cooly"                
@@ -103,11 +103,18 @@ def search_xml():
     #print numMatches 
     
     # array for storing results
-    print occur
+    # Split into xml_print, new function to write unit tests for
+    # print occur
     for num in output:
         print num
+        
+    results = []
+    results.append(occur)
+    for occurencePlace in output:
+        results.append(occurencePlace)
+    return results
     
 # Searches the subtree of the query root, iterating of all children, returns boolean
 
    
-search_xml()
+print xml_eval("RunXML.in")
