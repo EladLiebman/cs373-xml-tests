@@ -19,11 +19,11 @@ To test the program:
 
 import StringIO
 import unittest
-
+import os
 # These are the functions to be tested.
 
 #from XML import xml_read, xml_eval, xml_print, xml_solve, cycle_length # ?? XML.py, xml_dowhatit'ssupposedtodo 
-from XML import xml_eval
+from XML import xml_eval, print_XML
 
 # -----------
 # TestCollatz
@@ -65,9 +65,10 @@ class TestXML (unittest.TestCase) :
     </JiaJia>
 </THU>
 <Team><Cooly></Cooly></Team>''')
-        f.close()
+        f.close()        
         #f.write(xml_eval())
         results = xml_eval(filename)
+        os.remove("Test.in")
         self.assert_(results == [2, 2, 7])
 
     def test_eval_2 (self) :
@@ -86,9 +87,10 @@ class TestXML (unittest.TestCase) :
         </B>
 </X>
 <A><B></B><C></C><D></D></A>''')
-        f.close()
+        f.close()      
         #f.write(xml_eval())
         results = xml_eval(filename)
+        os.remove("Test.in")
         self.assert_(results == [1,3])
 
     def test_eval_3 (self) :
@@ -116,20 +118,14 @@ class TestXML (unittest.TestCase) :
     </JiaJia>
 </THU>
 <Team><Cooly></Cooly><Dragon></Dragon></Team>''')
-        f.close()
+        f.close()        
         #f.write(xml_eval())
         results = xml_eval(filename)
+        os.remove("Test.in")
         self.assert_(results == [3,2,8,13])
    
-    # -----
-    # print
-    # -----
-
-#    def test_print (self) :
-#        w = StringIO.StringIO()
-#        collatz_print(w, 1, 10, 20)
-#        self.assert_(w.getvalue() == "1 10 20\n")
-
+   
+    
 
     # -----
     # solve
