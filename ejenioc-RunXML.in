@@ -3361,73 +3361,61 @@
 </NO>
 
 <RADIOHEAD>
-	<DOWN>
-		<UP>
-			<NO>
-				<KARMA></KARMA>
-				<LET></LET>
-			</NO>
-		</UP>
-	</DOWN>
-	<FITTER>
-		<POLICE></POLICE>
-	</FITTER>
-	<UP>
-		<AIRBAG>
-			<HAPPIER></HAPPIER>
-		</AIRBAG>
-	</UP>
+    <DOWN>
+        <UP>
+            <NO>
+                <KARMA></KARMA>
+                <LET></LET>
+            </NO>
+        </UP>
+    </DOWN>
+    <FITTER>
+        <POLICE></POLICE>
+    </FITTER>
+    <UP>
+        <AIRBAG>
+            <HAPPIER></HAPPIER>
+        </AIRBAG>
+    </UP>
 </RADIOHEAD>
 <UP>
-	<DOWN>
-	</DOWN>
+    <DOWN>
+    </DOWN>
 </UP>
 
 <RADIOHEAD>
-	<THE>
-		<MUSIC>
-			<OK></OK>
-		</MUSIC>
-	</THE>
-	<TOURIST>
-		<THE></THE>
-	</TOURIST>
-	<FITTER>
-		<EXIT>
-			<WALLS></WALLS>
-			<TOURIST></TOURIST>
-		</EXIT>
-		<HOMESICK>
-			<DOWN>
-				<MUSIC></MUSIC>
-			</DOWN>
-		</HOMESICK>
-	</FITTER>
-	<UP>
-		<CLIMBING></CLIMBING>
-	</UP>
+    <DOWN>
+        <UP>
+            <NO>
+                <KARMA></KARMA>
+                <LET></LET>
+            </NO>
+        </UP>
+    </DOWN>
+    <FITTER>
+        <POLICE></POLICE>
+    </FITTER>
+    <UP>
+        <AIRBAG>
+            <HAPPIER></HAPPIER>
+        </AIRBAG>
+    </UP>
 </RADIOHEAD>
 <RADIOHEAD>
-	<THE>
-		<MUSIC>
-			<OK></OK>
-		</MUSIC>
-	</THE>
-	<TOURIST>
-		<THE></THE>
-	</TOURIST>
-	<FITTER>
-		<EXIT>
-			<WALLS></WALLS>
-			<TOURIST></TOURIST>
-		</EXIT>
-		<HOMESICK>
-			<DOWN>
-				<MUSIC></MUSIC>
-			</DOWN>
-		</HOMESICK>
-	</FITTER>
-	<UP>
-		<CLIMBING></CLIMBING>
-	</UP>
+    <DOWN>
+        <UP>
+            <NO>
+                <KARMA></KARMA>
+                <LET></LET>
+            </NO>
+        </UP>
+    </DOWN>
+    <FITTER>
+        <POLICE></POLICE>
+    </FITTER>
+    <UP>
+        <AIRBAG>
+            <HAPPIER></HAPPIER>
+        </AIRBAG>
+    </UP>
 </RADIOHEAD>
