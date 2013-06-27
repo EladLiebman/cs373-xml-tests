@@ -33,6 +33,8 @@ class TestXML (unittest.TestCase) :
     # ----
     # xml_read_file
     # ----
+	# We wrote first three unit tests using three smaller file that are not included in turnin
+	# the fourth test_read_file output too much for our TestXML.out, but they all work
 	"""
 	def test_read_file0(self):
 		r = open('RunXML_init.in')
