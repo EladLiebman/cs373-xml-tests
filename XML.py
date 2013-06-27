@@ -1,57 +1,72 @@
 #!/usr/bin/env python
+
+# ---------------------------
+# projects/xml/XML.py
+# Copyright (C) 2013
+# Arturo Lemus
+# Andres Echeverria
+# ---------------------------
+
+# ------------
+# xml_eval
+# ------------
+
 import xml.etree.ElementTree as ET
 
-def xml_eval(filename):   # renamed from search_xml()
+# renamed from search_xml()
+def xml_eval(filename):   
     # Read entire file into a string
     with open (filename, "r") as myfile:
         data = myfile.read() 
     
-    # Find the beginning of the Query Document, Store in string
+    # Find query document by traversing the input from the end
     i = len(data) - 1
     
     while data[i] != '\n' :
-        i -= 1   
+        i -= 1
    
     query = data[i:]
     query = query.replace("\n", "")
     
-    # Copy the xml document were searching into its own string
+    
+    # Find XML document, represent it as string
     n = 0
     doc = ""
     
     while n < i :
         doc += data[n]
         n += 1
-    # print query
-    # print doc 
     
     # Create roots for 2 element trees, query and doc
     queryRoot = ET.fromstring(query)
     docRoot = ET.fromstring(doc)
 
+    # Create lists containing the elements of 
+    # each of the newly created element trees
+    
     queryList = []
     docList = []
-    
- 
+     
     for child in queryRoot.iter():
         queryList.append(child.tag)
-        
-  
     
     for child in docRoot.iter():
         docList.append(child.tag)
 
+    numMatches = 0
 
-    numMatches = 0  # number of matches        
     # First step
-    a = docRoot.findall('.//' + queryList[0])  # '//Team'
-    
-    
+    # Find all occurrences of the top level element
+    # of the query in the xml document
+
+    topLevelElem = docRoot.findall('.//' + queryList[0])  # '//Team'
+        
     elementID = []
     i = 0
+
+    # elementID contains the indices of where query occurs
     # keys for dictionary, ID of 'Team'
     while i < len(docList) : 
-        # do something
         if docList[i] == queryList[0] :
             elementID.append(i + 1)
         i += 1
@@ -59,8 +74,8 @@ def xml_eval(filename):   # renamed from search_xml()
     dictionary = dict()
     
     m = 0 
-    while m < len(a):
-        dictionary[a[m]] = elementID[m]
+    while m < len(topLevelElem):
+        dictionary[topLevelElem[m]] = elementID[m]
         m += 1
     #print dictionary.items()
     output = []
@@ -80,7 +95,7 @@ def xml_eval(filename):   # renamed from search_xml()
     #    print q
  
     #iterates over Cooly for now 
-    for element in a:        
+    for element in topLevelElem:        
         numMatches = 0
         # print count
         # Second step
