@@ -8,10 +8,9 @@
 # ---------------------------
 """
 To test the program:
-    % python RunXML.py < RunXML.in > RunXML.out
-    % chmod ugo+x RunXML.py
-    % RunXML.py < RunXML.in > RunXML.out
-
+    % python XML.py
+    % chmod ugo+x XML.py
+    % XML.py 
 """
 # ------------
 # xml_eval
@@ -136,11 +135,9 @@ def xml_eval(filename):
     return results
     
 # Searches the subtree of the query root, iterating of all children, returns boolean
-def print_XML(filename, w):
+def print_XML(filename):
     out = xml_eval(filename)
-    n = 0
-    limit = len(out)-1
-    while( n < limit):
-        w.write(str(n) + "\n")
-    w.write(str(out[limit]))
-   
+    for x in out:
+        print x
+        
+print_XML("RunXML.in")
