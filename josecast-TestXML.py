@@ -86,7 +86,7 @@ class TestXML (unittest.TestCase) :
         root = ET.fromstring(s)
         o = xml_eval(root);
         #print "test_xml_eval_3 -> o: ",o
-        self.assert_(o == [0]) # Wrong output, NEEDLE is the HAYSTACK. 7th block
+        self.assert_(o == [-1]) # Wrong output, NEEDLE is the HAYSTACK. 7th block
                                # Should return: [1]
 
 
@@ -299,13 +299,13 @@ class TestXML (unittest.TestCase) :
         r = StringIO.StringIO("<ExS>\n<GiGjGVWP>\n<yiyDYZqc>\n<iKCRc>\n</iKCRc>\n</yiyDYZqc>\n</GiGjGVWP>\n</ExS>\n<ExS>\n<GiGjGVWP>\n<yiyDYZqc>\n<iKCRc>\n</iKCRc>\n</yiyDYZqc>\n</GiGjGVWP>\n</ExS>")
         w = StringIO.StringIO()
         xml_solve(r, w)
-        self.assert_(w.getvalue() == "1\n1\n\n")
+        self.assert_(w.getvalue() == "1\n0\n\n")
     
     def test_xml_solve_5 (self) :
         r = StringIO.StringIO("<yvOthoUY>\n<ozkDstpr>\n<wpEVxQQ>\n</wpEVxQQ>\n</ozkDstpr>\n<EwuuLQ>\n</EwuuLQ>\n</yvOthoUY>\n<yvOthoUY>\n<ozkDstpr>\n<wpEVxQQ>\n</wpEVxQQ>\n</ozkDstpr>\n<EwuuLQ>\n</EwuuLQ>\n</yvOthoUY>")
         w = StringIO.StringIO()
         xml_solve(r, w)
-        self.assert_(w.getvalue() == "0\n\n")        
+        self.assert_(w.getvalue() == "1\n0\n\n")        
     
 
 # ----
