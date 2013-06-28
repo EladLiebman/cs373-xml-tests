@@ -1,0 +1,1047 @@
+<THU>
+	<Team>
+		<ACRush><test1></test1><test2></test2></ACRush>
+		<Jelly></Jelly>
+		<Cooly><Team></Team></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber><Kobe></Kobe></Amber></Cooly>
+			<ACRush><test1></test1><test2></test2></ACRush>
+			<Jelly></Jelly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><ACRush><test1></test1><test2></test2></ACRush><Jelly></Jelly></Team>
+
+<THU>
+	<Team>
+		<ACRush><test1></test1><test2></test2></ACRush>
+		<Jelly></Jelly>
+		<Cooly><Team></Team></Cooly>
+		<Ahyangyi><test1></test1><test2></test2></Ahyangyi>
+		<Dragon><test1></test1><test2></test2></Dragon>
+	</Team>
+	<JiaJia>
+		<Team2>
+			<Ahyangyi><test1></test1><test2></test2></Ahyangyi>
+			<Dragon><test1></test1><test2></test2></Dragon>
+			<Cooly><Amber><Kobe></Kobe></Amber></Cooly>
+			<ACRush><test1></test1><test2></test2></ACRush>
+			<Jelly></Jelly>
+		</Team2>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi><test1></test1><test2></test2></Ahyangyi><Dragon><test1></test1><test2></test2></Dragon></Team>
+
+<THU>
+	<Team>
+		<ACRush><test1></test1><test2></test2></ACRush>
+		<Jelly></Jelly>
+		<Cooly><Team></Team></Cooly>
+		<Ahyangyi><test1></test1><test2></test2></Ahyangyi>
+		<Dragon><test1></test1><test2></test2></Dragon>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi><test1></test1><test2></test2></Ahyangyi>
+			<Dragon><test1></test1><test2></test2></Dragon>
+			<Cooly><Amber><Kobe></Kobe></Amber></Cooly>
+			<ACRush><test1></test1><test2></test2></ACRush>
+			<Jelly></Jelly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi><test1></test1><test2></test2></Ahyangyi><Dragon><test1></test1><test2></test2></Dragon></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Cooly><Amber></Amber></Cooly>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Team></Team>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Team></Team>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi></Ahyangyi></Team>
+
+<THU>
+</THU>
+<THU>
+</THU>
+
+<THU>
+</THU>
+<B>
+</B>
+
+<Mam>
+    <Bat>
+        <Whale>
+            <Dolphin>
+            </Dolphin>
+        </Whale>
+            <Elephant>
+            </Elephant>
+            <Zebra>
+                <Panda>
+                </Panda>
+            </Zebra>
+    </Bat>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                </Dolphin>
+            </Whale>
+            <Bear>
+            </Bear>
+        </Bat>
+    </Cat>
+</Mam>
+<Bat>
+    <Whale>
+        <Dolphin>
+        </Dolphin>
+    </Whale>
+</Bat>
+
+<Mam>
+    <Bat>
+        <Whale>
+            <Dolphin>
+            </Dolphin>
+        </Whale>
+        <Elephant>
+        </Elephant>
+        <Zebra>
+            <Panda>
+            </Panda>
+        </Zebra>
+    </Bat>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                </Dolphin>
+                <Elephant>
+                </Elephant>
+            </Whale>
+            <Bear>
+            </Bear>
+        </Bat>
+    </Cat>
+</Mam>
+<Whale>
+    <Dolphin>
+    </Dolphin>
+    <Elephant>
+    </Elephant>
+</Whale>
+
+<Mam>
+    <Bat>
+        <Whale>
+            <Dolphin>
+                <Tiger>
+                </Tiger>
+                <Fox>
+                </Fox>
+            </Dolphin>
+        </Whale>
+        <Elephant>
+            <Fox>
+            </Fox>
+            <Dolphin>
+                <Fox>
+                </Fox>
+            </Dolphin>
+        </Elephant>
+        <Zebra>
+            <Panda>
+            </Panda>
+        </Zebra>
+    </Bat>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                    </Fox>
+                </Dolphin>
+                <Elephant>
+                </Elephant>
+            </Whale>
+            <Bear>
+            </Bear>
+        </Bat>
+    </Cat>
+</Mam>
+<Dolphin>
+    <Fox>
+    </Fox>
+</Dolphin>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Seal>
+                                <Rhinoceros>
+                                    <Gorilla>
+                                        <Rabbit>
+                                            <Giraffe>
+                                            </Giraffe>
+                                        </Rabbit>
+                                        <Koala>
+                                            <Meerkat>
+                                                <Armadillo>
+                                                </Armadillo>
+                                            </Meerkat>
+                                        </Koala>
+                                    </Gorilla>
+                                </Rhinoceros>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                    <Rabbit>
+                        <Giraffe>
+                        </Giraffe>
+                    </Rabbit>
+                </Dolphin>
+            </Whale>
+        </Bat>
+    </Cat>
+</Mam>
+<Rabbit>
+    <Giraffe>
+    </Giraffe>
+</Rabbit>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Bear>
+                            </Bear>
+                            <Seal>
+                                <Elephant>
+                                </Elephant>
+                                <Rhinoceros>
+                                    <Gorilla>
+                                        <Rabbit>
+                                            <Giraffe>
+                                            </Giraffe>
+                                        </Rabbit>
+                                        <Koala>
+                                            <Meerkat>
+                                                <Armadillo>
+                                                    <Horse>
+                                                        <Tiger>
+                                                            <Sloth>
+                                                                <Lemur>
+                                                                </Lemur>
+                                                            </Sloth>
+                                                        </Tiger>
+                                                    </Horse>
+                                                </Armadillo>
+                                            </Meerkat>
+                                        </Koala>
+                                    </Gorilla>
+                                </Rhinoceros>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                    <Seal>
+                        <Elephant>
+                            <Horse>
+                                <Tiger>
+                                    <Sloth>
+                                        <Lemur>
+                                        </Lemur>
+                                    </Sloth>
+                                </Tiger>
+                            </Horse>
+                        </Elephant>
+                    </Seal>
+                </Dolphin>
+            </Whale>
+        </Bat>
+    </Cat>
+</Mam>
+<Horse>
+    <Tiger>
+        <Sloth>
+            <Lemur>
+            </Lemur>
+        </Sloth>
+    </Tiger>
+</Horse>
+
+<Mam>
+    <Cat>
+    </Cat>
+</Mam>
+<Mam>
+</Mam>
+
+<Mam>
+    <Cat>
+    </Cat>
+    <Sea Lion>
+    </Sea Lion>
+</Mam>
+<Sea Lion>
+</Sea Lion>
+
+<Mam>
+    <Cat>
+        <Mole>
+            <Dog>
+            </Dog>
+            <Wolf>
+            </Wolf>
+            <Tiger>
+            </Tiger>
+        </Mole>
+    </Cat>
+</Mam>
+<Mole>
+    <Dog>
+    </Dog>
+    <Wolf>
+        <Tiger>
+        </Tiger>
+    </Wolf>
+</Mole>
+
+<Mam>
+    <Cat>
+        <Mole>
+            <Dog>
+            </Dog>
+            <Wolf>
+                <Tiger>
+                </Tiger>
+            </Wolf>
+        </Mole>
+    </Cat>
+</Mam>
+<Mole>
+    <Dog>
+    </Dog>
+    <Wolf>
+    </Wolf>
+    <Tiger>
+    </Tiger>
+</Mole>
+
+<Mam>
+    <Cat>
+        <Mole>
+            <Dog>
+                <Wolf>
+                    <Tiger>
+                        <Bat>
+                        </Bat>
+                    </Tiger>
+                </Wolf>
+            </Dog>
+        </Mole>
+    </Cat>
+    <Dolphin>
+        <Cat>
+            <Mole>
+                <Dog>
+                    <Wolf>
+                        <Tiger>
+                            <Bat>
+                            </Bat>
+                        </Tiger>
+                    </Wolf>
+                </Dog>
+            </Mole>
+        </Cat>
+    </Dolphin>
+</Mam>
+<Cat>
+    <Mole>
+        <Dog>
+            <Wolf>
+                <Tiger>
+                    <Bat>
+                    </Bat>
+                </Tiger>
+            </Wolf>
+        </Dog>
+    </Mole>
+</Cat>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Bear>
+                            </Bear>
+                            <Seal>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                </Dolphin>
+            </Whale>
+            <Manatee>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Bear>
+                            </Bear>
+                            <Seal>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                </Dolphin>
+                <Pig>
+                </Pig>
+            </Manatee>
+        </Bat>
+    </Cat>
+</Mam>
+<Fox>
+    <Ferret>
+        <Bear>
+        </Bear>
+        <Seal>
+        </Seal>
+    </Ferret>
+</Fox>
+
+<Mam>
+    <Seal>
+        <Sea Lion>
+            <Elephant>
+                <Horse>
+                    <Tiger>
+                        <Manatee>
+                            <Pig>
+                                <Sheep>
+                                </Sheep>
+                                <Camel>
+                                    <Deer>
+                                        <Antelope>
+                                            <Human>
+                                                <Hippopotamus>
+                                                    <Rabbit>
+                                                    </Rabbit>
+                                                </Hippopotamus>
+                                            </Human>
+                                            <Koala>
+                                            </Koala>
+                                        </Antelope>
+                                    </Deer>
+                                </Camel>
+                            </Pig>
+                            <Human>
+                                <Hippopotamus>
+                                    <Rabbit>
+                                    </Rabbit>
+                                    <Koala>
+                                    </Koala>
+                                </Hippopotamus>
+                            </Human>
+                            <Koala>
+                            </Koala>
+                        </Manatee>
+                    </Tiger>
+                </Horse>
+                <Human>
+                    <Hippopotamus>
+                        <Koala>
+                        </Koala>
+                        <Rabbit>
+                        </Rabbit>
+                    </Hippopotamus>
+                </Human>
+                <Koala>
+                </Koala>
+            </Elephant>
+        </Sea Lion>
+    </Seal>
+</Mam>
+<Human>
+    <Hippopotamus>
+        <Rabbit>
+        </Rabbit>
+        <Koala>
+        </Koala>
+    </Hippopotamus>
+</Human>
+
+<Human>
+    <Koala>
+        <Meerkat>
+            <Armadillo>
+                <Horse>
+                    <Tiger>
+                        <Sloth>
+                            <Lemur>
+                                <Seal>
+                                    <Manatee>
+                                        <Pig>
+                                            <Sheep>
+                                            </Sheep>
+                                            <Camel>
+                                                <Deer>
+                                                    <Antelope>
+                                                        <Human>
+                                                            <Hippopotamus>
+                                                                <Rabbit>
+                                                                </Rabbit>
+                                                            </Hippopotamus>
+                                                        </Human>
+                                                    </Antelope>
+                                                </Deer>
+                                            </Camel>
+                                        </Pig>
+                                    </Manatee>
+                                </Seal>
+                            </Lemur>
+                        </Sloth>
+                    </Tiger>
+                </Horse>
+            </Armadillo>
+        </Meerkat>
+    </Koala>
+</Human>
+<Rabbit>
+</Rabbit>
+
+<Chipmunk>
+    <Prarie Dog>
+        <Ferret>
+            <Bear>
+                <Squirrel>
+                </Squirrel>
+            </Bear>
+            <Seal>
+                <Sea Lion>
+                    <Elephant>
+                    </Elephant>
+                    <Rhinoceros>
+                        <Gorilla>
+                            <Rabbit>
+                                <Giraffe>
+                                    <Deer>
+                                        <Bear>
+                                            <Squirrel>
+                                            </Squirrel>
+                                        </Bear>
+                                    </Deer>
+                                </Giraffe>
+                            </Rabbit>
+                        </Gorilla>
+                    </Rhinoceros>
+                </Sea Lion>
+            </Seal>
+        </Ferret>
+        <Bear>
+        </Bear>
+    </Prarie Dog>
+    <Bear>
+        <Squirrel>
+        </Squirrel>
+    </Bear>
+</Chipmunk>
+<Bear>
+    <Squirrel>
+    </Squirrel>
+</Bear>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                    </Fox>
+                    <Seal>
+                        <Sea Lion>
+                            <Elephant>
+                                <Horse>
+                                    <Tiger>
+                                        <Manatee>
+                                            <Pig>
+                                                <Sheep>
+                                                </Sheep>
+                                                <Camel>
+                                                    <Deer>
+                                                        <Antelope>
+                                                            <Human>
+                                                                <Hippopotamus>
+                                                                    <Rabbit>
+                                                                    </Rabbit>
+                                                                </Hippopotamus>
+                                                            </Human>
+                                                            <Koala>
+                                                            </Koala>
+                                                        </Antelope>
+                                                    </Deer>
+                                                </Camel>
+                                            </Pig>
+                                        </Manatee>
+                                    </Tiger>
+                                </Horse>
+                            </Elephant>
+                        </Sea Lion>
+                    </Seal>
+                    <Manatee>
+                        <Pig>
+                            <Sheep>
+                            </Sheep>
+                            <Camel>
+                                <Deer>
+                                    <Antelope>
+                                        <Human>
+                                            <Hippopotamus>
+                                                <Rabbit>
+                                                </Rabbit>
+                                            </Hippopotamus>
+                                        </Human>
+                                        <Koala>
+                                        </Koala>
+                                    </Antelope>
+                                </Deer>
+                            </Camel>
+                        </Pig>
+                    </Manatee>
+                </Dolphin>
+                <Bear>
+                </Bear>
+            </Whale>
+        </Bat>
+    </Cat>
+</Mam>
+<Manatee>
+    <Pig>
+        <Sheep>
+        </Sheep>
+        <Camel>
+            <Deer>
+                <Antelope>
+                    <Human>
+                        <Hippopotamus>
+                            <Rabbit>
+                            </Rabbit>
+                        </Hippopotamus>
+                    </Human>
+                    <Koala>
+                    </Koala>
+                </Antelope>
+            </Deer>
+        </Camel>
+    </Pig>
+</Manatee>
+
+<Bat>
+    <Chipmunk>
+        <Jaguar>
+            <Sea Lion>
+            <Elephant>
+            </Elephant>
+                <Rhinoceros>
+                    <Gorilla>
+                        <Rabbit>
+                            <Giraffe>
+                                <Deer>
+                                </Deer>
+                            </Giraffe>
+                        </Rabbit>
+                        <Koala>
+                            <Meerkat>
+                                <Armadillo>
+                                    <Horse>
+                                        <Tiger>
+                                            <Sloth>
+                                                <Lemur>
+                                                    <Manatee>
+                                                        <Pig>
+                                                            <Sheep>
+                                                            </Sheep>
+                                                            <Camel>
+                                                                <Fox>
+                                                                    <Antelope>
+                                                                        <Human>
+                                                                            <Hippopotamus>
+                                                                                <Rabbit>
+                                                                                </Rabbit>
+                                                                            </Hippopotamus>
+                                                                        </Human>
+                                                                    </Antelope>
+                                                                </Fox>
+                                                            </Camel>
+                                                        </Pig>
+                                                    </Manatee>
+                                                </Lemur>
+                                            </Sloth>
+                                        </Tiger>
+                                    </Horse>
+                                </Armadillo>
+                            </Meerkat>
+                        </Koala>
+                    </Gorilla>
+                </Rhinoceros>
+            </Sea Lion>
+        </Jaguar>
+    </Chipmunk>
+    <Jaguar>
+        <Sea Lion>
+        </Sea Lion>
+    </Jaguar>
+</Bat>
+<Jaguar>
+    <Sea Lion>
+    </Sea Lion>
+</Jaguar>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Seal>
+                                <Sea Lion>
+                                    <Rhinoceros>
+                                        <Gorilla>
+                                            <Rabbit>
+                                                <Giraffe>
+                                                </Giraffe>
+                                            </Rabbit>
+                                            <Koala>
+                                                <Meerkat>
+                                                    <Armadillo>
+                                                        <Horse>
+                                                            <Tiger>
+                                                                <Sloth>
+                                                                    <Lemur>
+                                                                    </Lemur>
+                                                                </Sloth>
+                                                            </Tiger>
+                                                        </Horse>
+                                                    </Armadillo>
+                                                </Meerkat>
+                                            </Koala>
+                                        </Gorilla>
+                                    </Rhinoceros>
+                                </Sea Lion>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                    <Seal>
+                        <Sea Lion>
+                            <Elephant>
+                                <Horse>
+                                    <Tiger>
+                                    </Tiger>
+                                </Horse>
+                            </Elephant>
+                        </Sea Lion>
+                    </Seal>
+                </Dolphin>
+            </Whale>
+        </Bat>
+    </Cat>
+</Mam>
+<Horse>
+    <Tiger>
+    </Tiger>
+</Horse>
+
+<Mam>
+    <Squirrel>
+        <Tiger>
+            <Lion>
+                <Cat>
+                    <Bat>
+                        <Meerkat>
+                            <Armadillo>
+                                <Horse>
+                                    <Tiger>
+                                        <Sloth>
+                                            <Lemur>
+                                                <Manatee>
+                                                    <Pig>
+                                                        <Camel>
+                                                            <Deer>
+                                                                <Antelope>
+                                                                    <Human>
+                                                                        <Hippopotamus>
+                                                                            <Caribou>
+                                                                            </Caribou>
+                                                                        </Hippopotamus>
+                                                                    </Human>
+                                                                </Antelope>
+                                                            </Deer>
+                                                        </Camel>
+                                                    </Pig>
+                                                </Manatee>
+                                            </Lemur>
+                                        </Sloth>
+                                    </Tiger>
+                                </Horse>
+                            </Armadillo>
+                        </Meerkat>
+                    </Bat>
+                </Cat>
+            </Lion>
+        </Tiger>
+    </Squirrel>
+    <Lion>
+        <Koala>
+            <Pig>
+                <Camel>
+                    <Deer>
+                        <Antelope>
+                            <Human>
+                                <Hippopotamus>
+                                    <Caribou>
+                                    </Caribou>
+                                </Hippopotamus>
+                            </Human>
+                        </Antelope>
+                    </Deer>
+                </Camel>
+            </Pig>
+        </Koala>
+        <Antelope>
+                <Human>
+                    <Hippopotamus>
+                        <Caribou>
+                        </Caribou>
+                    </Hippopotamus>
+                </Human>
+        </Antelope>
+    </Lion>
+    <Antelope>
+        <Human>
+            <Caribou>
+            </Caribou>
+        </Human>
+    </Antelope>
+</Mam>
+<Antelope>
+    <Human>
+        <Caribou>
+        </Caribou>
+    </Human>
+</Antelope>
+
+<Mam>
+    <Cat>
+        <Bat>
+            <Whale>
+                <Dolphin>
+                    <Fox>
+                        <Ferret>
+                            <Bear>
+                            </Bear>
+                            <Seal>
+                                <Sea Lion>
+                                    <Elephant>
+                                    </Elephant>
+                                    <Rhinoceros>
+                                        <Gorilla>
+                                            <Rabbit>
+                                                <Giraffe>
+                                                    <Deer>
+                                                    </Deer>
+                                                </Giraffe>
+                                            </Rabbit>
+                                            <Koala>
+                                            </Koala>
+                                        </Gorilla>
+                                    </Rhinoceros>
+                                </Sea Lion>
+                            </Seal>
+                        </Ferret>
+                    </Fox>
+                    <Seal>
+                        <Sea Lion>
+                            <Elephant>
+                                <Horse>
+                                    <Tiger>
+                                        <Manatee>
+                                            <Pig>
+                                                <Sheep>
+                                                </Sheep>
+                                                <Camel>
+                                                    <Deer>
+                                                        <Antelope>
+                                                            <Human>
+                                                                <Hippopotamus>
+                                                                    <Rabbit>
+                                                                    </Rabbit>
+                                                                </Hippopotamus>
+                                                            </Human>
+                                                            <Koala>
+                                                            </Koala>
+                                                        </Antelope>
+                                                    </Deer>
+                                                </Camel>
+                                            </Pig>
+                                        </Manatee>
+                                    </Tiger>
+                                </Horse>
+                            </Elephant>
+                        </Sea Lion>
+                        <Antelope>
+                            <Koala>
+                            </Koala>
+                            <Human>
+                            </Human>
+                        </Antelope>
+                    </Seal>
+                    <Manatee>
+                        <Pig>
+                            <Sheep>
+                            </Sheep>
+                            <Camel>
+                                <Deer>
+                                    <Antelope>
+                                        <Human>
+                                            <Hippopotamus>
+                                                <Rabbit>
+                                                </Rabbit>
+                                            </Hippopotamus>
+                                        </Human>
+                                        <Koala>
+                                        </Koala>
+                                    </Antelope>
+                                </Deer>
+                            </Camel>
+                        </Pig>
+                    </Manatee>
+                </Dolphin>
+                <Bear>
+                </Bear>
+            </Whale>
+        </Bat>
+    </Cat>
+</Mam>
+<Antelope>
+    <Human>
+    </Human>
+    <Koala>
+    </Koala>
+</Antelope>
+
+<Mam>
+    <Seal>
+        <Sea Lion>
+            <Elephant>
+                <Horse>
+                    <Tiger>
+                        <Manatee>
+                            <Pig>
+                                <Sheep>
+                                </Sheep>
+                                <Camel>
+                                    <Deer>
+                                        <Squirrel>
+                                            <Human>
+                                                <Jaguar>
+                                                    <Rabbit>
+                                                    </Rabbit>
+                                                </Jaguar>
+                                            </Human>
+                                            <Bear>
+                                            </Bear>
+                                        </Squirrel>
+                                    </Deer>
+                                </Camel>
+                            </Pig>
+                        </Manatee>
+                    </Tiger>
+                </Horse>
+                <Pig>
+                    <Sheep>
+                    </Sheep>
+                </Pig>
+            </Elephant>
+            <Camel>
+            </Camel>
+        </Sea Lion>
+    </Seal>
+</Mam>
+<Pig>
+    <Sheep>
+    </Sheep>
+    <Camel>
+    </Camel>
+</Pig>
