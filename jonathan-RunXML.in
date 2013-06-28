@@ -1,0 +1,1002 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+	<Dragon></Dragon>
+	<Ahyangyi></Ahyangyi>
+</Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+	<Dragon></Dragon>
+	<Ahyangyi></Ahyangyi>
+	<Jelly></Jelly>
+</Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly><Amber></Amber></Cooly></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber><Tina></Tina></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly><Amber><Tina></Tina></Amber></Cooly></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly><Amber><Tina></Tina></Amber></Cooly></Team>
+
+<THU>
+	<Team><Cooly><Team></Team></Cooly></Team>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+	<Team>
+		<Cooly></Cooly>
+        <JiaJia></JiaJia>
+    </Team>
+    <ACRush></ACRush>
+</THU>
+<Team><Cooly></Cooly><JiaJia></JiaJia></Team>
+
+<THU>
+    <Team></Team>
+    <Cooly></Cooly>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<j>
+	<i>
+		<g>
+			<d></d>
+			<p></p>
+		</g>
+	</i>
+	<h>
+		<f></f>
+		<l></l>
+	</h>
+</j>
+<h><f></f></h>
+
+
+<d>
+    <j>
+        <g>
+            <h>
+                <f>
+                    <e>
+                        <g>
+                        </g>
+                        <h>
+                        </h>
+                    </e>
+                </f>
+            </h>
+            <b>
+                <i>
+                </i>
+            </b>
+        </g>
+    </j>
+    <f>
+        <g>
+        </g>
+        <h>
+            <k>
+                <g>
+                </g>
+                <h>
+                    <k>
+                        <g>
+                            <h>
+                            </h>
+                        </g>
+                        <a>
+                            <c>
+                            </c>
+                        </a>
+                    </k>
+                </h>
+            </k>
+        </h>
+        <i>
+            <l>
+            </l>
+            <n>
+            </n>
+            <p>
+            </p>
+        </i>
+    </f>
+</d>
+<f>
+    <i>
+        <n>
+        </n>
+    </i>
+</f>
+
+<THU><Team></Team></THU><Team><Cooly></Cooly></Team>
+
+    <THU>
+<Team>
+                </Team>
+</THU><Team>    <Cooly>
+</Cooly></Team>
+
+<Tiesto>
+    <Right>
+        <Left>
+            <Yes>
+                <Fair></Fair>
+                <Not></Not>
+            </Yes>
+        </Left>
+    </Right>
+    <Tight>
+        <Crime></Crime>
+    </Tight>
+    <Left>
+        <Die>
+            <Depress></Depress>
+        </Die>
+    </Left>
+</Tiesto>
+<Tiesto>
+    <Right>
+        <Left>
+            <Yes>
+                <Fair></Fair>
+                <Not></Not>
+            </Yes>
+        </Left>
+    </Right>
+    <Tight>
+        <Crime></Crime>
+    </Tight>
+    <Left>
+        <Die>
+            <Depress></Depress>
+        </Die>
+    </Left>
+</Tiesto>
+
+<A>
+    <B>
+        <C/>
+    </B>
+</A>
+<B>
+    <C></C>
+</B>
+
+<A>
+    <B>
+        <C/>
+    </B>
+</A>
+<B>
+    <C/>
+</B>
+
+<A>
+    <B>
+        <C>
+        </C>
+    </B>
+</A>
+<B>
+    <C/>
+</B>
+
+<A>
+    <D>
+        <C>
+            <F/>
+            <A>
+                <F/>
+                <B/>
+            </A>
+        </C>
+        <A>
+            <D/>
+        </A>
+        <G>
+            <C>
+                <D>
+                    <A/>
+                </D>
+                <A>
+                    <F/>
+                </A>
+            </C>
+        </G>
+        <B>
+            <A>
+                <C/>
+            </A>
+        
+        </B>
+    </D>
+</A> 
+<A>
+    <C/>
+</A>
+
+<Deadrat>
+    <Left>
+        <Elementary>
+            <Silence>
+                <Fair>
+                        <Document></Document>
+                    <Reside></Reside>
+                </Fair>
+                <Walking></Walking>
+                <Vote></Vote>
+            </Silence>
+        </Elementary>
+        <Enter>
+            <Death></Death>
+        </Enter>
+    </Left>
+</Deadrat>
+<Silence>
+    <Fair>
+            <Document></Document>
+        <Reside></Reside>
+    </Fair>
+    <Walking></Walking>
+    <Vote></Vote>
+</Silence>
+
+<D>
+  <J></J>
+  <C></C>
+</D>
+<J></J>
+
+
+<J></J>
+<D>
+  <J></J>
+  <C></C>
+</D>
+
+<J></J>
+<J></J>
+
+<A>
+<B>
+<C>
+<D>
+<E>
+<F>
+<G>
+<H>
+<I>
+<J>
+<K>
+<L>
+<M>
+<N>
+<O>
+<P>
+<Q>
+<R>
+<S>
+<T>
+<U>
+<V>
+<W>
+<X>
+<Y>
+<Z>
+</Z>
+</Y>
+</X>
+</W>
+</V>
+</U>
+</T>
+</S>
+</R>
+</Q>
+</P>
+</O>
+</N>
+</M>
+</L>
+</K>
+</J>
+</I>
+</H>
+</G>
+</F>
+</E>
+</D>
+</C>
+</B>
+</A>
+<P>
+</P>
+
+<A>
+<B>
+<C>
+<D>
+<E><P/>
+<F>
+<G>
+<H>
+<I>
+<J>
+<K>
+<L>
+<M>
+<N>
+<O>
+<P>
+<Q>
+<R>
+<S>
+<T>
+<U>
+<V>
+<W>
+<X>
+<Y>
+<Z>
+</Z>
+</Y>
+</X>
+</W>
+</V>
+</U>
+</T>
+</S>
+</R>
+</Q>
+</P>
+</O>
+</N>
+</M>
+</L>
+</K>
+</J>
+</I>
+</H>
+</G>
+</F>
+</E>
+</D>
+</C>
+</B>
+</A>
+<P>
+</P>
+
+<Today>
+<we><finished>
+<our> <XML>
+<programming>
+<assigment>
+</assigment>
+</programming>
+</XML>
+</our>
+</finished>
+</we></Today>
+<Today><we><did><not>
+</not></did></we></Today>
+
+<Today>
+<we><finished>
+<our> <XML>
+<programming>
+<assigment>
+</assigment>
+</programming>
+</XML>
+</our>
+</finished>
+</we></Today>
+<Today><we><did>
+</did></we></Today>
+
+<Today>
+<we><finished>
+<our> <XML>
+<programming>
+<assigment>
+</assigment>
+</programming>
+</XML>
+</our>
+</finished>
+</we></Today>
+<Today><we><finished>
+</finished></we></Today>
+
+<Today>
+<we><finished>
+<our> <XML>
+<programming>
+<assigment>
+</assigment>
+</programming>
+</XML>
+</our>
+</finished>
+</we></Today>
+<we><finished>
+</finished></we>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Food><Breakfast/><Lunch/><Dinner/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Food><Snack/><Breakfast/><Lunch/><Dinner/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Food><TVDinner/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Sliders>
+    <Price></Price>
+    <Description/>
+    <Calories></Calories>
+</Sliders>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Sliders>
+    <Price></Price>
+    <Calories></Calories>
+</Sliders>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Calories></Calories>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Calories/>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Food><Calories/><Description/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+    <Dinner>
+        <Spaghetti>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Spaghetti>
+        <Sliders>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Sliders>
+    </Dinner>
+</Food>
+<Dinner><Sliders/><Pancakes/></Dinner>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+</Food>
+<Food><Dinner/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+</Food>
+<Food><Steak/></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+</Food>
+<Food><Price/>
+        <Description/>
+        <Calories></Calories></Food>
+
+<Food>
+    <Breakfast>
+        <Waffles>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Waffles>
+        <Pancakes>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Pancakes>
+    </Breakfast>
+    <Lunch>
+        <Steak>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Steak>
+        <Burger>
+            <Price/>
+            <Description/>
+            <Calories></Calories>
+        </Burger>
+    </Lunch>
+</Food>
+<Burger><Price/>
+        <Description/>
+        <Calories></Calories></Burger>
+
+<A>
+    <C></C>
+    <D/>
+</A>
+<P>
+    <C/>
+</P>
